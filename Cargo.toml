@@ -1,0 +1,3 @@
+[workspace]
+members = ["nova-assembler", "nova-emulator", "nova-playground"]
+resolver = "2"
